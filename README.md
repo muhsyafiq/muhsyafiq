@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-👋 Hi there! I’m a Fullstack JavaScript Developer with expertise in building responsive, scalable applications using React, Node.js, NestJS, Next.js, Express, and Fastify. I have experience across the full stack, including backend architecture and cloud deployments. 🔹 Tech Stack Highlights:     🚀 Frontend & Mobile: React, Next.js, VueJS, SolidJS, VanillaJS, React Native, Flutter (Dart)     🔧 Backend: Node.js, Express, NestJS, Fastify     📦 DevOps: Docker, Kubernetes     🐍 Additional Languages: Python (Flask, Django, and more)
+👋 Hi there! I’m a Fullstack JavaScript Developer with expertise in building responsive, scalable applications using React, Node.js, NestJS, Next.js, Express, and Fastify. I have experience across the full stack, including backend architecture and cloud deployments.
+
+🔹 Tech Stack Highlights:     
+  🚀 Frontend & Mobile: React, Next.js, VueJS, SolidJS, VanillaJS, React Native, Flutter (Dart)     
+  🔧 Backend: Node.js, Express, NestJS, Fastify     
+  📦 DevOps: Docker, Kubernetes     
+  🐍 Additional Languages: Python (Flask, Django, and more)
 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [My Portofolio](http://https://muhsyafiq.github.io/profile/)
