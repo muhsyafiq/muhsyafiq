@@ -13,7 +13,7 @@ Software Developer
   🐍 Additional Languages: Python (Flask, Django, and more)
 
 * 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [My Portofolio](http://https://muhsyafiq.github.io/profile/)
+* 🖥️  See my portfolio at [My Portofolio](https://muhsyafiq.github.io/profile/)
 * ✉️  You can contact me at [syafiqguitarist@gmail.com](mailto:syafiqguitarist@gmail.com)
 * 🧠  I'm learning Continuously expanding my knowledge in TypeScript, Cloud Services, and advanced DevOps.
 * ⚡  Open to discussing anything JavaScript, cloud infrastructure, or mobile frameworks.
